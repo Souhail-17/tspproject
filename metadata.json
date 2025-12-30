@@ -1,0 +1,5 @@
+{
+  "name": "TSP Simulated Annealing ",
+  "description": "An advanced visualization tool for solving the Traveling Salesman Problem using Simulated Annealing and Nearest Neighbor heuristics. Features interactive path rendering, real-time convergence charts, and AI-powered performance analysis.",
+  "requestFramePermissions": []
+}
